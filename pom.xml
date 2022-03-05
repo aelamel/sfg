@@ -43,7 +43,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/aelamel/sfg.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:aelamel/sfg.git</developerConnection>
       <tag>spring-0.0.3</tag>
   </scm>
 
