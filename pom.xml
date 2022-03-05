@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.sfg</groupId>
     <artifactId>spring</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>spring</name>
     <description>spring</description>
     <properties>
