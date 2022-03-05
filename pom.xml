@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:aelamel/sfg.git</developerConnection>
-      <tag>spring-0.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
