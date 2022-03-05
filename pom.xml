@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.sfg</groupId>
     <artifactId>spring</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>spring</name>
     <description>spring</description>
     <properties>
@@ -44,7 +44,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:aelamel/sfg.git</developerConnection>
-      <tag>HEAD</tag>
   </scm>
 
 </project>
